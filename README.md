@@ -1,13 +1,14 @@
-# Meta_Python
+# Meta_Python :
 
   Simple Python Script to execute metasploit shellcode using ctypes Module.
 
-# Features
+# Features :
 
   -Fully Undetectable
   
   -Support all encoders
   
   -Hidden Self-Copy in the startup folder
-# Finaly
+  
+# Use :
   Just build the "exe".
