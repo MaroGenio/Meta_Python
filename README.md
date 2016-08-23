@@ -12,3 +12,5 @@
   
 # Use :
   Just build the "exe".
+  C:/>pyinstaller --noconsole --onefile meta_python.py
+  
