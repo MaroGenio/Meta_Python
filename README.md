@@ -11,6 +11,7 @@
   -Hidden Self-Copy in the startup folder
   
 # Use :
-  Just build the "exe".
+  Just build the "exe":
+  
   C:/>pyinstaller --noconsole --onefile meta_python.py
   
